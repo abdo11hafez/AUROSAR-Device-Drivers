@@ -269,6 +269,4 @@ void Port_GetVersionInfo( Std_VersionInfoType* versioninfo )
 		versioninfo ->sw_patch_version = (uint8)PORT_SW_PATCH_VERSION;
 	}
 }
-#endif		
-
-  
+#endif		  

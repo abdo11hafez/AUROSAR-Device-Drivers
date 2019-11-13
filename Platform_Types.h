@@ -1,6 +1,6 @@
 /*********************************************************************************
  **                                                                             **
- **  FOLDERNAME	  : Platform_Types.h         								    **
+ **  FOLDERNAME	  : Platform_Types.h         								                    **
  **                                                                             **
  **  VERSION      : 1.0.0                                                       **
  **                                                                             **
@@ -10,14 +10,14 @@
  **                                                                             **
  **  AUTHOR       : Abdelrahman Hafez.	                                        **
  **                                                                             **
- **  VENDOR       : Abdelrahman Hafez Co.LTD.							        **
+ **  VENDOR       : Abdelrahman Hafez Co.LTD.							                      **
  **                                                                             **                                                                           **
- **  DESCRIPTION  : Platform Types Implementation.								**
+ **  DESCRIPTION  : Platform Types Implementation.								              **
  **                                                                             **
- **  SPECS        : Manuale coded.									            **
+ **  SPECS        : Manuale coded.									                            **
  **                                                                             **
  **  MAY BE CHANGED BY USER : No.                                               **
- **															                    **
+ **															                                                **
  ********************************************************************************/
 
 #ifndef PLATFORM_TYPES_H

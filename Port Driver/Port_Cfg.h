@@ -1,23 +1,23 @@
 /********************************************************************************
- **                                                                             **
- **  FOLDERNAME	  : Port_Cfg.h         									        **
- **                                                                             **
- **  VERSION      : 1.0.0                                                       **
- **                                                                             **
- **  DATE         : 2019-11-13                                                  **
- **                                                                             **                                                                             **
- **  PLATFORM     : AVR ATmega32                                                **
- **                                                                             **
- **  AUTHOR       : Abdelrahman Hafez.	                                        **
- **                                                                             **
- **  VENDOR       : Abdelrahman Hafez Co.LTD							        **
- **                                                                             **                                                                           **
- **  DESCRIPTION  : PRE-Compile Configuration Options Of Port Module Driver     **
- **                                                                             **
- **  SPECS        : Manuale coded									            **
- **                                                                             **
- **  MAY BE CHANGED BY USER : Yes                                               **
- **															                    **
+ **                                                                             
+ **  FOLDERNAME	  : Port_Cfg.h         									        
+ **                                                                             
+ **  VERSION      : 1.0.0                                                       
+ **                                                                             
+ **  DATE         : 2019-11-13                                                  
+ **                                                                                                                                                          
+ **  PLATFORM     : AVR ATmega32                                                
+ **                                                                             
+ **  AUTHOR       : Abdelrahman Hafez.	                                        
+ **                                                                             
+ **  VENDOR       : Abdelrahman Hafez Co.LTD							        
+ **                                                                                                                                                        
+ **  DESCRIPTION  : PRE-Compile Configuration Options Of Port Module Driver     
+ **                                                                             
+ **  SPECS        : Manuale coded									            
+ **                                                                             
+ **  MAY BE CHANGED BY USER : Yes                                               
+ **															                    
  ********************************************************************************/
 
 #ifndef PORT_CFG_H_

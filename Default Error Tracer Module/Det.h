@@ -1,23 +1,23 @@
 /********************************************************************************
- **                                                                             **
- **  FOLDERNAME	  : Det.c         											    **
- **                                                                             **
- **  VERSION      : 1.0.0                                                       **
- **                                                                             **
- **  DATE         : 2019-11-13                                                  **
- **                                                                             **                                                                             **
- **  PLATFORM     : AVR ATmega32.                                               **
- **                                                                             **
- **  AUTHOR       : Abdelrahman Hafez.	                                        **
- **                                                                             **
- **  VENDOR       : Abdelrahman Hafez Co.LTD.							        **
- **                                                                             **                                                                           **
- **  DESCRIPTION  : Default Error Tracer Macros and Type Definitions.			**
- **                                                                             **
- **  SPECS        : Manuale coded.									            **
- **                                                                             **
- **  MAY BE CHANGED BY USER : No.                                               **
- **															                    **
+ **                                                                             
+ **  FOLDERNAME	  : Det.c         											    
+ **                                                                             
+ **  VERSION      : 1.0.0                                                       
+ **                                                                             
+ **  DATE         : 2019-11-13                                                  
+ **                                                                                                                                                          **
+ **  PLATFORM     : AVR ATmega32.                                               
+ **                                                                             
+ **  AUTHOR       : Abdelrahman Hafez.	                                        
+ **                                                                             
+ **  VENDOR       : Abdelrahman Hafez Co.LTD.							        
+ **                                                                                                                                                        **
+ **  DESCRIPTION  : Default Error Tracer Macros and Type Definitions.			
+ **                                                                             
+ **  SPECS        : Manuale coded.									            
+ **                                                                             
+ **  MAY BE CHANGED BY USER : No.                                               
+ **															                    
  ********************************************************************************/
 
 #ifndef DET_H

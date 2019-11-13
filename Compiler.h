@@ -1,6 +1,6 @@
 /*********************************************************************************
  **                                                                             **
- **  FOLDERNAME	  : Compiler.h         										    **
+ **  FOLDERNAME	  : Compiler.h         										                      **
  **                                                                             **
  **  VERSION      : 1.0.0                                                       **
  **                                                                             **
@@ -10,14 +10,14 @@
  **                                                                             **
  **  AUTHOR       : Abdelrahman Hafez.	                                        **
  **                                                                             **
- **  VENDOR       : Abdelrahman Hafez Co.LTD.							        **
+ **  VENDOR       : Abdelrahman Hafez Co.LTD.							                      **
  **                                                                             **                                                                           **
- **  DESCRIPTION  : Compiler Abstraction Implementation.						**
+ **  DESCRIPTION  : Compiler Abstraction Implementation.						            **
  **                                                                             **
- **  SPECS        : Manuale coded.									            **
+ **  SPECS        : Manuale coded.									                            **
  **                                                                             **
  **  MAY BE CHANGED BY USER : No.                                               **
- **															                    **
+ **															                                                **
  ********************************************************************************/
 
 #ifndef COMPILER_H

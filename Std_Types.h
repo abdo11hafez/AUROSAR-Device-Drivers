@@ -76,5 +76,4 @@ typedef struct
 #define STD_ON          0x01U       /* Standard ON */
 #define STD_OFF         0x00U       /* Standard OFF */
 
-
 #endif /* STD_TYPES_H */

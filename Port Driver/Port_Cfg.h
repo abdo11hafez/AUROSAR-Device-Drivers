@@ -50,8 +50,8 @@
 *						   AVR-uC Port Properties						 
 ******************************************************************************/
 
-#define NUMBER_OF_PORT_PINS								(8U)						
+#define NUMBER_OF_PORT_PINS						   (8U)						
 #define TOTAL_NUMBER_OF_PORTS							(4U)
-#define TOTAL_NUMBER_OF_PINS                            (32U)
+#define TOTAL_NUMBER_OF_PINS        (32U)
 
 #endif /* PORT_CFG_H_ */

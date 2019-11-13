@@ -47,7 +47,7 @@
 #define	PORT_VERSION_INFO_API							(STD_ON)
 
 /******************************************************************************
-*						   AVR-uC Port Properties						      *
+*						   AVR-uC Port Properties						 
 ******************************************************************************/
 
 #define NUMBER_OF_PORT_PINS								(8U)						

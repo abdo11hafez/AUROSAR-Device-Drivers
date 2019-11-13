@@ -1,23 +1,23 @@
 /********************************************************************************
- **                                                                             **
- **  FOLDERNAME	  : Port_BPcfg.h         			                            **
- **                                                                             **
- **  VERSION      : 1.0.0                                                       **
- **                                                                             **
- **  DATE         : 2019-11-13                                                   **
- **                                                                             **                                                                             **
- **  PLATFORM     : AVR ATmega32                                                **
- **                                                                             **
- **  AUTHOR       : Abdelrahman Hafez.	                                        **
- **                                                                             **
- **  VENDOR       : Abdelrahman Hafez Co.LTD							        **
- **                                                                             **                                                                           **
- **  DESCRIPTION  : Post-Building Configuration Of Port Driver           **
- **                                                                             **
- **  SPECS        : Manuale coded									            **
- **                                                                             **
- **  MAY BE CHANGED BY USER : Yes                                               **
- **                                                                             **
+ **                                                                             
+ **  FOLDERNAME	  : Port_BPcfg.h         			                            
+ **                                                                             
+ **  VERSION      : 1.0.0                                                       
+ **                                                                             
+ **  DATE         : 2019-11-13                                                   
+ **                                                                                                                                                          
+ **  PLATFORM     : AVR ATmega32                                                
+ **                                                                             
+ **  AUTHOR       : Abdelrahman Hafez.	                                        
+ **                                                                             
+ **  VENDOR       : Abdelrahman Hafez Co.LTD							        
+ **                                                                                                                                                        
+ **  DESCRIPTION  : Post-Building Configuration Of Port Driver           
+ **                                                                             
+ **  SPECS        : Manuale coded									            
+ **                                                                             
+ **  MAY BE CHANGED BY USER : Yes                                               
+ **                                                                             
  ********************************************************************************/
 
 #ifndef PORT_PBCFG_H_

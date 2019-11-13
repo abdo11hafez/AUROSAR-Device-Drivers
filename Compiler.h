@@ -1,42 +1,23 @@
 /*********************************************************************************
  **                                                                             
-<<<<<<< HEAD
  **  FOLDERNAME	  : Compiler.h         										                      
-=======
- **  FOLDERNAME	  : Compiler.h         										    
->>>>>>> PortDriver
  **                                                                             
  **  VERSION      : 1.0.0                                                       
  **                                                                             
  **  DATE         : 2019-11-9                                                   
-<<<<<<< HEAD
- **                                                                                                                                                          **
-=======
- **                                                                                                                                                          
->>>>>>> PortDriver
+ **                                                                                                                                                                                                                                                                                                                    
  **  PLATFORM     : AVR ATmega32.                                               
  **                                                                             
  **  AUTHOR       : Abdelrahman Hafez.	                                        
  **                                                                             
-<<<<<<< HEAD
- **  VENDOR       : Abdelrahman Hafez Co.LTD.							                      
- **                                                                                                                                                        **
+ **  VENDOR       : Abdelrahman Hafez Co.LTD.							         
+ **                                                                                                                                                        
  **  DESCRIPTION  : Compiler Abstraction Implementation.						            
  **                                                                             
  **  SPECS        : Manuale coded.									                            
  **                                                                             
  **  MAY BE CHANGED BY USER : No.                                               
  **															                                                
-=======
- **  VENDOR       : Abdelrahman Hafez Co.LTD.							        
- **                                                                                                                                                        
- **  DESCRIPTION  : Compiler Abstraction Implementation.						
- **                                                                             
- **  SPECS        : Manuale coded.									            
- **                                                                             
- **  MAY BE CHANGED BY USER : No.                                               
- **															                    
->>>>>>> PortDriver
  ********************************************************************************/
 
 #ifndef COMPILER_H

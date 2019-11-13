@@ -1,27 +1,27 @@
 /********************************************************************************
- **                                                                             **
- **  FOLDERNAME	  : Port_MemMap.h         									    **
- **                                                                             **
- **  VERSION      : 1.0.0                                                       **
- **                                                                             **
- **  DATE         : 2019-11-9                                                  **
- **                                                                             **                                                                             **
- **  PLATFORM     : AVR ATmega32                                                **
- **                                                                             **
- **  AUTHOR       : Abdelrahman Hafez.	                                        **
- **                                                                             **
- **  VENDOR       : Abdelrahman Hafez Co.LTD							        **
- **                                                                             **                                                                           **
- **  DESCRIPTION  : Port Driver source file										**
- **                                                                             **
- **  SPECS        : Manuale coded									            **
- **                                                                             **
- **  MAY BE CHANGED BY USER : No                                                **
- **															                    **
+ **                                                                             
+ **  FOLDERNAME	  : Port_MemMap.h         									    
+ **                                                                             
+ **  VERSION      : 1.0.0                                                       
+ **                                                                             
+ **  DATE         : 2019-11-9                                                  
+ **                                                                                                                                                          
+ **  PLATFORM     : AVR ATmega32                                                
+ **                                                                             
+ **  AUTHOR       : Abdelrahman Hafez.	                                        
+ **                                                                             
+ **  VENDOR       : Abdelrahman Hafez Co.LTD							        
+ **                                                                                                                                                        
+ **  DESCRIPTION  : Port Driver Memory Mapped Regs file										
+ **                                                                             
+ **  SPECS        : Manuale coded									            
+ **                                                                             
+ **  MAY BE CHANGED BY USER : No                                                
+ **															                    
  ********************************************************************************/
 
-#ifndef DIO_REGS_H
-#define DIO_REGS_H
+#ifndef PORT_MEMMAP_H
+#define PORT_MEMMAP_H
 
 #include "Std_Types.h"
 
@@ -45,4 +45,4 @@
 #define DDRD_REG	(*(volatile uint8 *)0x0031)
 #define PIND_REG 	(*(volatile uint8 *)0x0030)
 
-#endif /* DIO_REGS_H */
+#endif /* PORT_MEMMAP_H */

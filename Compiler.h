@@ -1,23 +1,23 @@
 /*********************************************************************************
- **                                                                             **
- **  FOLDERNAME	  : Compiler.h         										    **
- **                                                                             **
- **  VERSION      : 1.0.0                                                       **
- **                                                                             **
- **  DATE         : 2019-11-9                                                   **
- **                                                                             **                                                                             **
- **  PLATFORM     : AVR ATmega32.                                               **
- **                                                                             **
- **  AUTHOR       : Abdelrahman Hafez.	                                        **
- **                                                                             **
- **  VENDOR       : Abdelrahman Hafez Co.LTD.							        **
- **                                                                             **                                                                           **
- **  DESCRIPTION  : Compiler Abstraction Implementation.						**
- **                                                                             **
- **  SPECS        : Manuale coded.									            **
- **                                                                             **
- **  MAY BE CHANGED BY USER : No.                                               **
- **															                    **
+ **                                                                             
+ **  FOLDERNAME	  : Compiler.h         										    
+ **                                                                             
+ **  VERSION      : 1.0.0                                                       
+ **                                                                             
+ **  DATE         : 2019-11-9                                                   
+ **                                                                                                                                                          
+ **  PLATFORM     : AVR ATmega32.                                               
+ **                                                                             
+ **  AUTHOR       : Abdelrahman Hafez.	                                        
+ **                                                                             
+ **  VENDOR       : Abdelrahman Hafez Co.LTD.							        
+ **                                                                                                                                                        
+ **  DESCRIPTION  : Compiler Abstraction Implementation.						
+ **                                                                             
+ **  SPECS        : Manuale coded.									            
+ **                                                                             
+ **  MAY BE CHANGED BY USER : No.                                               
+ **															                    
  ********************************************************************************/
 
 #ifndef COMPILER_H

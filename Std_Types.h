@@ -1,23 +1,23 @@
 /********************************************************************************
- **                                                                             **
- **  FOLDERNAME	  : Std_Types.h         			                            **
- **                                                                             **
- **  VERSION      : 1.0.0                                                       **
- **                                                                             **
- **  DATE         : 2019-11-9                                                   **
- **                                                                             **                                                                             **
- **  PLATFORM     : AVR ATmega32                                                **
- **                                                                             **
- **  AUTHOR       : Abdelrahman Hafez.	                                        **
- **                                                                             **
- **  VENDOR       : Abdelrahman Hafez Co.LTD							        **
- **                                                                             **                                                                           **
- **  DESCRIPTION  : Standard Types Impelemintation                              **
- **                                                                             **
- **  SPECS        : Manuale coded									            **
- **                                                                             **
- **  MAY BE CHANGED BY USER : no                                                **
- **                                                                             **
+ **                                                                             
+ **  FOLDERNAME	  : Std_Types.h         			                            
+ **                                                                             
+ **  VERSION      : 1.0.0                                                       
+ **                                                                             
+ **  DATE         : 2019-11-9                                                   
+ **                                                                                                                                                          **
+ **  PLATFORM     : AVR ATmega32                                                
+ **                                                                             
+ **  AUTHOR       : Abdelrahman Hafez.	                                        
+ **                                                                             
+ **  VENDOR       : Abdelrahman Hafez Co.LTD							        
+ **                                                                                                                                                        **
+ **  DESCRIPTION  : Standard Types Impelemintation                              
+ **                                                                             
+ **  SPECS        : Manuale coded									            
+ **                                                                             
+ **  MAY BE CHANGED BY USER : no                                                
+ **                                                                             
  ********************************************************************************/
 
 #ifndef STD_TYPES_H

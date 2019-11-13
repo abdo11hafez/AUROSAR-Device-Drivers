@@ -5,13 +5,13 @@
  **  VERSION      : 1.0.0                                                       
  **                                                                             
  **  DATE         : 2019-11-9                                                   
- **                                                                                                                                                          **
+ **                                                                                                                                                          
  **  PLATFORM     : AVR ATmega32.                                               
  **                                                                             
  **  AUTHOR       : Abdelrahman Hafez.	                                        
  **                                                                             
  **  VENDOR       : Abdelrahman Hafez Co.LTD.							        
- **                                                                                                                                                        **
+ **                                                                                                                                                                                                                                                                                                                
  **  DESCRIPTION  : Platform Types Implementation.								
  **                                                                             
  **  SPECS        : Manuale coded.									            

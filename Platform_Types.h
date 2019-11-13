@@ -17,6 +17,7 @@
  **  SPECS        : Manuale coded.									            **
  **                                                                             **
  **  MAY BE CHANGED BY USER : No.                                               **
+ **															                    **
  ********************************************************************************/
 
 #ifndef PLATFORM_TYPES_H

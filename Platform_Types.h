@@ -28,40 +28,34 @@
 
 /* Platform Types Module Id */
 #define PLATFORM_TYPES_MODULE_ID                    (199U)
-
 /*
  * Module Version 1.0.0
  */
 #define PLATFORM_SW_MAJOR_VERSION                   (1U)
 #define PLATFORM_SW_MINOR_VERSION                   (0U)
 #define PLATFORM_SW_PATCH_VERSION                   (0U)				
-
 /*
  * AUTOSAR Version 4.3.1
  */
 #define PLATFORM_AR_RELEASE_MAJOR_VERSION           (4U)
 #define PLATFORM_AR_RELEASE_MINOR_VERSION           (3U)
 #define PLATFORM_AR_RELEASE_PATCH_VERSION           (1U)
-
 /*
  * CPU register width types
  */
 #define CPU_TYPE_8                                  (8U)
 #define CPU_TYPE_16                                 (16U)
 #define CPU_TYPE_32                                 (32U)
-
 /*
  * Bit Ordering (in Register-Byte-) Definitions
  */
 #define MSB_FIRST                   (0u)        /* Big endian */
 #define LSB_FIRST                   (1u)        /* Little endian */
-
 /*
  * Byte Ordering (in Memory) Definitions
  */
 #define HIGH_BYTE_FIRST             (0u)        /* Big endian */
 #define LOW_BYTE_FIRST              (1u)        /* Little endian */
-
 /*
  * CPU type and endianess for AVR
  */

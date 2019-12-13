@@ -24,11 +24,9 @@
 #include "Port_MemMap.h"
 #include "Det.h"
 
-/*******************************************************************************
- *                           Private Global Variables                          *
- *******************************************************************************/
 
 STATIC uint8 Port_Status = PORT_NOT_INITIALIZED;
+
 
 void Port_Init(const Port_ConfigType* ConfigPtr) 
 {
@@ -269,6 +267,4 @@ void Port_GetVersionInfo( Std_VersionInfoType* versioninfo )
 		versioninfo ->sw_patch_version = (uint8)PORT_SW_PATCH_VERSION;
 	}
 }
-#endif		
-
-  
+#endif		  
